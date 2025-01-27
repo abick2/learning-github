@@ -1,0 +1,3 @@
+/Users/andrewbickford/Documents/VSCodeWorkspace/learning-github/build/CMakeFiles/my-project-hello.dir
+/Users/andrewbickford/Documents/VSCodeWorkspace/learning-github/build/CMakeFiles/edit_cache.dir
+/Users/andrewbickford/Documents/VSCodeWorkspace/learning-github/build/CMakeFiles/rebuild_cache.dir

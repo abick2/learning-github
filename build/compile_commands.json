@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/andrewbickford/Documents/VSCodeWorkspace/learning-github/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.5 -o CMakeFiles/my-project-hello.dir/main.cpp.o -c /Users/andrewbickford/Documents/VSCodeWorkspace/learning-github/main.cpp",
+  "file": "/Users/andrewbickford/Documents/VSCodeWorkspace/learning-github/main.cpp",
+  "output": "CMakeFiles/my-project-hello.dir/main.cpp.o"
+}
+]
